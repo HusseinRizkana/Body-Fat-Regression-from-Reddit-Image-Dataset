@@ -40,8 +40,8 @@ The dataset had to be transformed in order to use the pretrained model and hence
 
 ## Analysis of the results and conclusion:
 
-results found ... acc within... and ... acc within...
+The final model chosen was retrained on a dataset containing the initial training and validation data to make use of all available data(apart from the 205 dataset). 
 
-this shows that ...
+The final accuracy of the model run on the test set was found to be.. 
 
-Possible uninvestigated approaches include... 
+This lead to an accuracy of ... 90% of the time validating the success/ failure of our goal.
